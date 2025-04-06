@@ -2,8 +2,8 @@ import { useState } from "react";
 
 const steps = [
   { 
-    title: "Week 12 - Smart Street Lamp",
-    description: "Today, we'll create smart street lamp using Scratch.",
+    title: "Week 13 - Ball Movement",
+    description: "Today, you'll create a few blocks to describe different movement of ball each.",
     images: ["images/first.png"] // Removed leading slash
   },
   {
@@ -11,39 +11,40 @@ const steps = [
     description: "Please check your seat and make sure you're in the right place.",
     images: ["images/seating-chart.png"] // Removed leading slash
   },
-  {
-    title: "Key programming concepts",
-    description: "Today, we'll cover if conditions.",
-   // Removed leading slash
-  },
   
   {
-    title: "Step 1: Open Scratch and remix today's start project(week12)",
-    description: "Please share the start file I provided at the studio Week12. My Stuff -> My Studio -> Week12 -> Start File",
+    title: "Step 1: Open Scratch and remix today's start project(week13)",
+    description: "Please share the start file I provided at the studio Week13. My Stuff -> My Studio -> Week13 -> Start File",
   },
   {
-    title: "Step 2: Let's start coding with the Cat sprite",
-    description: "The cat's block describes the cat's behavior.",
-    images: ["images/cat.png"] // Removed leading slash
+    title: "Step 2: Let's start coding with the first block",
+    description: "The ball moves when the '1' key is pressed.",
+    images: ["images/1.png"] // Removed leading slash
   },
   {
-    title: "Step 4: Let's code for the light sensor",
-    description: "Sensor of the light is used to detect the movement of the cat.",
-    images: ["images/light.png"] // Removed leading slash
+    title: "Step 3: Let's start coding with the second block",
+    description: "The ball moves when the '2' key is pressed.",
+    images: ["images/2.png"] // Removed leading slash
   },
   {
-    title: "Step 5: Let's code another project: line tracing",
-    images: ["images/line.png"] // Removed leading slash
+    title: "Step 4: Let's start coding with the third block",
+    description: "The ball moves when the '3' key is pressed.",
+    images: ["images/3.png"] // Removed leading slash
   },
   {
-    title: "Step 6: Let's code for the cat",
-    description: "Let's code for the finish block first.",
-    images: ["images/cat1.png"] // Removed leading slash
+    title: "Step 5: Let's start coding with the fourth block",
+    description: "The ball moves when the '4' key is pressed.",
+    images: ["images/4.png"] // Removed leading slash
   },
   {
-    title: "Step 7: Let's code for the cat",
-    description: "Please see how the cat is tracing the line.",
-    images: ["images/cat2.png"] // Removed leading slash
+    title: "Step 6: Let's start coding with the fifth block",
+    description: "The ball moves when the '5' key is pressed.",
+    images: ["images/5.png"] // Removed leading slash
+  },
+  {
+    title: "Step 7: Let's start coding with the sixth block",
+    description: "The ball moves when the '6' key is pressed.",
+    images: ["images/6.png"] // Removed leading slash
   },
   {
     title: "Step 8: Don't forget to share your projects",
